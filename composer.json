@@ -1,5 +1,5 @@
 {
-    "name": "MikeSorokin/migration",
+    "name": "mike-sorokin/migration",
     "type": "library",
     "description": "Migration generator for Phinx",
     "keywords": ["migration", "phinx", "database"],
