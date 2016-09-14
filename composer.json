@@ -1,9 +1,9 @@
 {
-    "name": "odan/migration",
+    "name": "MikeSorokin/migration",
     "type": "library",
     "description": "Migration generator for Phinx",
     "keywords": ["migration", "phinx", "database"],
-    "homepage": "http://github.com/odan/migration",
+    "homepage": "http://github.com/MikeSorokin/migrations",
     "license": "MIT",
     "require": {
         "php": "^5.6 || ^7.0",
